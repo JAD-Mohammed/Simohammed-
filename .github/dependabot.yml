@@ -3,6 +3,8 @@
 # Please see the documentation for all configuration options:
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 
+
+(<unknown>): did not find expected whitespace or line break while scanning a tag at line 1 column 2
 version: 2
 updates:
   - package-ecosystem: "gomod"
