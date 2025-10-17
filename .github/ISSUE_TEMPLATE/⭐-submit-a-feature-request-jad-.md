@@ -1,8 +1,8 @@
 ---
-name: "⭐ Submit a feature request"
+name: "⭐ Submit a feature request JAD "
 about: Surface a feature or problem that you think should be solved
 title: ''
-labels: enhancement
+labels: enhancement, Jad
 assignees: ''
 
 ---
